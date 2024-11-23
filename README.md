@@ -2,7 +2,8 @@
 
 FilmBot — это Telegram-бот, который взаимодействует с базой данных фильмов. Он позволяет находить фильмы по различным критериям, добавлять новые фильмы в базу данных и получать информацию о самых популярных фильмах.
 
-![FilmBot Example](https://via.placeholder.com/800x300?text=FilmBot+Example+Placeholder)
+![Снимок экрана 2024-11-23 170424](https://github.com/user-attachments/assets/06d69ab8-35d9-4dc3-a91a-46c48b11a8cd)
+
 
 ---
 
